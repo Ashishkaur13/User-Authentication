@@ -16,6 +16,10 @@
   }
 }
 
+.header{
+  background-image: url('./assets/img/outer-space.jpg');
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
